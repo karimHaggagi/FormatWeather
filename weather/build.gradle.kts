@@ -49,7 +49,7 @@ publishing {
                 from(components["release"])
                 groupId = "com.example.weather"
                 artifactId = "weather"
-                version = "1.0"
+                version = "1.1"
             }
         }
     }
